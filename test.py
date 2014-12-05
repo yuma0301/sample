@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
-hogehogehoge	
+#hogehogehoge	
 def main():
 
 if __name__ == '__main__':
